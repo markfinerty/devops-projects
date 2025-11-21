@@ -28,6 +28,6 @@ A collection of DevOps projects built with various related tools such as **Docke
 
 ## 📖 About
 
-This repository serves as a central index for my CI/CD projects Each linked project contains its own detailed README with setup instructions and architecture explanations.
+This repository serves as a central index for my CI/CD projects. Each linked project contains its own detailed README with setup instructions and architecture explanations.
 
 ---

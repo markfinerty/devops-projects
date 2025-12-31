@@ -4,7 +4,7 @@ A collection of DevOps projects built with various related tools such as **Docke
 
 ---
 
-## 📁 Projects
+## Projects
 
 | Project                              | Description                                                                                                                            | Repository                                                                   |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ A collection of DevOps projects built with various related tools such as **Docke
 
 ---
 
-## 🧩 Tools & Technologies
+## Tools & Technologies
 
 - **Docker** – Containerization of applications
 - **Docker Compose** – Multi-container orchestration
@@ -26,7 +26,7 @@ A collection of DevOps projects built with various related tools such as **Docke
 
 ---
 
-## 📖 About
+## About
 
 This repository serves as a central index for my CI/CD projects. Each linked project contains its own detailed README with setup instructions and architecture explanations.
 
